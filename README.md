@@ -1,6 +1,6 @@
 # My_First_ECommerce
 
-this django shopping site
+this django ECommerce site
 
 first: create Virtual environment
 
